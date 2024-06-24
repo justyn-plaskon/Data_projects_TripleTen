@@ -1,0 +1,3 @@
+https://public.tableau.com/app/profile/justyn.plaskon/viz/J_PLASKON_ZomatoCustomerAnalysisFinalProject/ZomatoDash?publish=yes
+
+The educational qualifications dashboard filter makes the spending by month per education graph easier to read by excluding uneducated and school levels of education. 

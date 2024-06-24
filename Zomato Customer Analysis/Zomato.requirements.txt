@@ -1,2 +1,2 @@
 The requirements of this project were to pick one of several business intelligence areas of research and do independent research on that area using the Zomato data set. 
-It was require to clean and merge the data corre3ctly, make relevant graphs that showed trends and make a dashboard that would be useful for management to learn about the area of research. A slideshow of the findings was also required where I used Tableau stories to show my findings and receommendations
+It was required to clean and merge the data correctly, make relevant graphs that showed trends and make a dashboard that would be useful for management to learn about the area of research. A slideshow of the findings was also required where I used Tableau stories to show my findings and recommendations

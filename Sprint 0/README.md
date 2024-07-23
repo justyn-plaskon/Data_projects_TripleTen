@@ -1,4 +1,4 @@
-# File Title: 
+# Fresh Beats reporting Project: 
 I examined data to help Fresh Beats, a music platform, grow. I used provided information to create a report highlighting key findings and suggesting improvements. My role was to interpret the data and explain its impact on the business.
 
 ### Table of Contents

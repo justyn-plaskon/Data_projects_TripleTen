@@ -2,41 +2,29 @@
 I examined data to help Fresh Beats, a music platform, grow. I used provided information to create a report highlighting key findings and suggesting improvements. My role was to interpret the data and explain its impact on the business.
 
 ### Table of Contents
-| File Number | Title | Description |
 | 1 | [Fresh Beats Report](https://docs.google.com/document/d/1VxHCWEi5P9v8BYapo0ybtV2SLx8WC2kwZNBQtADVJ74/edit?usp=sharing) | Report using provided data and charts |
-| 2 | [RAW DATA FILE HERE](URL HERE) | DESCRIPTION HERE |
-| 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 4 | [Requirements.txt](URL HERE) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+
+| 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
+
+| 4 | [Requirements.txt](https://github.com/justyn-plaskon/Data_projects_TripleTen/blob/main/Sprint%200/Requirements.txt) | Project requirements for this report |
 
 | Section Title | Description |
 | ----------- |----------- |
-| DATA | Describes the source of data, including files, tables, and fields. |
-| Description | Describes the final product's purpose, software, format, and included visuals. |
-| Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
-| Findings | Insights learned from the data analysis. |
+| DATA | Data and charts were provided by TripleTen for this exercise |
+| Description |Analyze data to create a report identifying key insights and recommending improvements for Fresh Beats music platform. |
+| Assumptions | The data and charts were provided for this project and it was assumed the data was clean and accurate |
+| Findings | Analysis of five years of user data reveals rising popularity of electronic and hip-hop, prompting recommendations to target these genres for user acquisition and engagement, while also leveraging rock and indie preferences for free and paid user conversion strategies. |
 
-### Data
-DESCRIPTION HERE:
-- `'TABLE NAME HERE'`: DESCRIPTION HERE
-    - `'FIELD NAME'`: DESCRIPTION HERE
-  
+
 ### Description:
-- # OF PAGES/SHEETS AND FORMAT HERE
-- DESCRIPTION OF WHAT”S INCLUDED HERE
-
-### Assumptions:
-- LIST ALL ASSUMPTIONS HERE (Use AI)
-
-### Process:
--IF RELEVANT, USE AI TO DESCRIBE PROCESS OF PROJECT
+Included is the 4 page .pdf final report based off the given data. 
 
 
 ### Findings:
--LIST KEY INSIGHTS HERE
+The project analyzed user data from the past five years to identify listening trends. It was found that electronic and hip-hop genres were rapidly gaining popularity among users. Rock was the most popular genre among free users. 
 
 ### Recommendations:
-- LIST ALL FUTURE RECS HERE
+To increase user engagement and attract new users, it is recommended to offer artists in these genres limited-time promotional deals. Additionally, given that rock was the most popular genre among free users, promoting the paid service with a free trial to this user segment is suggested. For paid users, where indie music was most popular, it is recommended to focus referral programs and ad campaigns on this group.
 
 ### Notes:
-LIST ANY NOTES (such as a draft page being a requirement)
-
+First project, data was provided this project was about reporting

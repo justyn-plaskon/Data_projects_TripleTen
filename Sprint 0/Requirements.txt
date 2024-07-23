@@ -1,0 +1,23 @@
+Your Role: Business Intelligence Analyst
+
+Select insights and visualizations from provided data.
+Relate findings to business challenges.
+Create recommendations based on analysis.
+
+Process:
+Review dataset, visualizations, and insights.
+Identify connections between visuals, findings, and business challenges.
+Use report template to structure content.
+Focus on understanding logic, not calculations.
+
+Goal:
+Produce a report with key findings and recommendations.
+Showcase ability to connect insights, visuals, and business needs.
+
+
+
+
+
+
+
+ 

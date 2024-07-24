@@ -3,14 +3,12 @@ The project leveraged the Superstore dataset to analyze return rates. A calculat
 
 
 ### Table of Contents
-
+| File Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | [Tableau File](https://public.tableau.com/app/profile/justyn.plaskon/viz/J_PLaskonSprint5Project/ReturnRatebyCustomer?publish=yes) | Tabelau file including dashbaord and story presentation.|
-| 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 4 | [Requirements.txt](URL HERE) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 2 | [README.md](https://github.com/justyn-plaskon/Data_projects_TripleTen/edit/main/Cause%20of%20Returns%20at%20Superstore/Readme.md) |Project information and background.|
+| 3 | [Requirements.txt](https://github.com/justyn-plaskon/Data_projects_TripleTen/blob/main/Cause%20of%20Returns%20at%20Superstore/Superstore.requirements.txt) | Requirements of this analysis.|
 
-| Section Title | Description |
-| ----------- |----------- |
 | DATA | Describes the source of data, including files, tables, and fields. |
 | Description | Describes the final product's purpose, software, format, and included visuals. |
 | Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
@@ -18,28 +16,36 @@ The project leveraged the Superstore dataset to analyze return rates. A calculat
 
 ### Data
 DESCRIPTION HERE:
-- `'TABLE NAME HERE'`: DESCRIPTION HERE
-    - `'FIELD NAME'`: DESCRIPTION HERE
+- `'Superstore.xls'`: Each row corresponds to one product sold; sheets were LEFT JOIN'd
+    - `'orders'`: details all fields for each ordered item.
+    - `'returns'`: details all fields for each returned item.
   
 ### Description:
-- # OF PAGES/SHEETS AND FORMAT HERE
-- DESCRIPTION OF WHAT”S INCLUDED HERE
+- 18 page Tableau Visualization and presentation.
+- Includes story presenting findings, dashboard and data analysis.
 
 ### Assumptions:
-- LIST ALL ASSUMPTIONS HERE (Use AI)
+- Profits are in the negative.
+- Negative profits are directly linked to issues with orders and high number of returns.
+- Changes based on data driven recommendations are needed to prevent bankruptcy.
 
 ### Process:
--IF RELEVANT, USE AI TO DESCRIBE PROCESS OF PROJECT
+-The sheets were initially joined. Subsequently, data was analyzed using visualizations to identify the root causes of returns. A dashboard was then constructed for return monitoring. Finally, a Tableau story was created to present the findings.
 
 
 ### Findings:
--LIST KEY INSIGHTS HERE
+-Binders are the most returned subcategory overall. 
+-Tables are the most returned sub category earning a negative profit
+-Certain subcategories such as binders and paper have a large amount of items with over double the average return rate. 
+-There is a seasonality to the sales and return cycle
 
 ### Recommendations:
-- LIST ALL FUTURE RECS HERE
+-Investigate why binders and paper are so often returned and make sure to elimate an errors in the listings of these items
+-Make tables a special order item, and have sales people guide custoimers toward the correct table.
+-Steer customers troward buying less returned items by placing the least returned items higher in the superstore websearch
 
 ### Notes:
-LIST ANY NOTES (such as a draft page being a requirement)
+Mockup dashboard was a project requirement
 
 
  

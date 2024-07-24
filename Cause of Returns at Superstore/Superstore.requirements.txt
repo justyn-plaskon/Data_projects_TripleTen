@@ -1,1 +1,21 @@
-The project involved analyzing product returns using Tableau to identify root causes. A calculated field was created to differentiate returned orders, enabling the calculation of return rates. Various analytical views were developed, including scatterplots to examine the correlation between total sales and returns, bar charts to display return rates by product category, and geographic and temporal analyses to identify patterns. Insights were compiled into a dashboard, beginning with low-fidelity mock-ups and culminating in an interactive Tableau dashboard. Finally, a Tableau Story was developed and presented, summarizing key findings and recommending strategies to reduce returns and enhance business performance.
+Your Role: Business Intelligence Analyst
+
+Select insights and visualizations from provided data.
+Analyze product return data to identify patterns and trends.
+Create visual representations (scatterplots, bar charts, maps) to communicate findings effectively.
+Present visuals in a dashboard and a story with presenatation. 
+Relate findings to business challenges.
+Connect data-driven insights to specific business problems (e.g., high return rates, loss of profit).
+Quantify the impact of identified issues on business performance.
+Create recommendations based on analysis.
+Develop actionable strategies to address root causes of product returns.
+Propose solutions to improve customer satisfaction and reduce return rates.
+
+Process:
+Review dataset, visualizations, and insights. Gain a comprehensive understanding of the data and its visual representation.
+Identify connections between visuals, findings, and business challenges. Determine how data patterns relate to business objectives.
+Use report template to structure content. Organize findings and recommendations in a clear and logical manner. Emphasize the interpretation of data and its implications, rather than technical details.
+Goal:
+
+Produce a report with key findings and recommendations. Deliver a concise and impactful document that provides actionable insights.
+Showcase ability to connect insights, visuals, and business needs. Demonstrate strong analytical and communication skills.

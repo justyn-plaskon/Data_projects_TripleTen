@@ -1,7 +1,45 @@
-This project aimed to leverage Tableau to analyze product returns within the Superstore dataset and identify their root causes. The objective was to minimize return rates and improve business performance.
+# Cause of Returns at Superstore
+The project leveraged the Superstore dataset to analyze return rates. A calculated field was implemented to isolate returned orders, facilitating subsequent analysis. Tableau visualizations were employed to identify return patterns across various dimensions. Key findings include a disproportionately high return rate for the tables product category, significantly impacting profitability. Binders were found to be the most returned sub-Category although impacting profitability less severly. A Dashboard and story presentation were created to explain findings to stakeholders.
 
-The project utilized the Superstore dataset, a sample dataset commonly used for data analysis practice. A calculated field was created to differentiate returned orders, enabling the calculation of return rates. Tableau visualizations were developed, including scatterplots, bar charts, and geographic/temporal analyses to identify patterns in return data. Insights were compiled into a user-friendly and interactive Tableau dashboard and story.
 
-The project identified tables as a product category within the Superstore dataset with a high return rate, negatively impacting profitability. Additionally, binders within the table category were found to be the most frequently returned item.
+### Table of Contents
 
-The project recommends further investigation into the reasons behind high table returns within the Superstore dataset. Potentially, conducting customer surveys or focus groups could provide valuable insights. Additionally, exploring "special order" options for tables or increased customer interaction with salespeople before purchase can potentially minimize return rates for this specific product category.
+| :-----------: | ----------- |----------- |
+| 1 | [Tableau File](https://public.tableau.com/app/profile/justyn.plaskon/viz/J_PLaskonSprint5Project/ReturnRatebyCustomer?publish=yes) | Tabelau file including dashbaord and story presentation.|
+| 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
+| 4 | [Requirements.txt](URL HERE) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+
+| Section Title | Description |
+| ----------- |----------- |
+| DATA | Describes the source of data, including files, tables, and fields. |
+| Description | Describes the final product's purpose, software, format, and included visuals. |
+| Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
+| Findings | Insights learned from the data analysis. |
+
+### Data
+DESCRIPTION HERE:
+- `'TABLE NAME HERE'`: DESCRIPTION HERE
+    - `'FIELD NAME'`: DESCRIPTION HERE
+  
+### Description:
+- # OF PAGES/SHEETS AND FORMAT HERE
+- DESCRIPTION OF WHAT”S INCLUDED HERE
+
+### Assumptions:
+- LIST ALL ASSUMPTIONS HERE (Use AI)
+
+### Process:
+-IF RELEVANT, USE AI TO DESCRIBE PROCESS OF PROJECT
+
+
+### Findings:
+-LIST KEY INSIGHTS HERE
+
+### Recommendations:
+- LIST ALL FUTURE RECS HERE
+
+### Notes:
+LIST ANY NOTES (such as a draft page being a requirement)
+
+
+ 

@@ -8,7 +8,7 @@ This project analyzed user behavior to understand the conversion and retention r
 | 1 | [Conversion Funnel Project Spreadsheet](https://docs.google.com/spreadsheets/d/1nMU8deU6D3NWAMTT_YxQYB-urH9R5wNNm05VM2ZIjg4/edit?gid=38637670#gid=38637670) | Completed Spreadsheet, including pivot tables and calcukayted feilds to support findings |
 | 2 | [Raw Data](https://docs.google.com/spreadsheets/d/1yuavBZ4OYYUD1opH-dq0d6nejREDy8f0ozumT9-yEuo/edit?gid=0#gid=0) | Data File Provided by TripleTen |
 | 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 4 | [Requirements.txt](URL HERE) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 4 | [Requirements.txt](https://github.com/justyn-plaskon/Data_projects_TripleTen/blob/main/Conversion%20Funnel%20Event%20Analysis/Conversion%20Funnel%20Event%20Log%20Requirements.txt) | .txt file with the provided project requirements |
 
 | Section Title | Description |
 | ----------- |----------- |

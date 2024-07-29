@@ -1,7 +1,42 @@
-This project aimed to analyze spending trends within the Zomato customer base. By leveraging the Zomato dataset, the goal was to create actionable insights for management to optimize marketing strategies and customer retention.
+# Zomato Customer Analysis
+This project analyzed spending patterns among Zomato customers to inform marketing and retention strategies. Customer data was segmented by demographics and spending habits, and visualized in interactive dashboards.
 
-The project involved data cleaning, merging relevant datasets, and generating visualizations that showcased spending patterns. Educational background, occupation, age, and marital status were used to segment customers. Tableau dashboards and stories were created to present findings and recommendations.
+### Table of Contents
+| File Number | Title | Description |
+| :-----------: | ----------- |----------- |
+| 1 | [Zomato Customer Analysis](https://public.tableau.com/app/profile/justyn.plaskon/viz/J_PLASKON_ZomatoCustomerAnalysisFinalProject/ZomatoDash?publish=yes) | This project explored the spending habits of Zomato customers across various demographic segments. By filtering the educational qualifications dashboard to exclude 'uneducated' and 'school' levels, spending trends for higher education groups became more apparent in the spending by month per education graph. |
+| 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
+| 4 | [Requirements.txt](URL HERE) | Required to clean the data appropriately using the dataset provided by TripleTen |
 
-The project resulted in a user-friendly dashboard that revealed significant spending trends. Notably, single students were identified as the largest customer base. Additionally, a decline in spending with age was observed.
+| Section Title | Description |
+| ----------- |----------- |
+| DATA | Describes the source of data, including files, tables, and fields. |
+| Description | Describes the final product's purpose, software, format, and included visuals. |
+| Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
+| Findings | Insights learned from the data analysis. |
 
-The project recommends focusing marketing efforts on retaining existing customers as they age and exploring targeted campaigns to attract older demographics. Additionally, capitalizing on the established single-student customer base can further enhance sales.
+### Data
+DESCRIPTION HERE:
+- `'TABLE NAME HERE'`: DESCRIPTION HERE
+    - `'FIELD NAME'`: DESCRIPTION HERE
+  
+### Description:
+- # OF PAGES/SHEETS AND FORMAT HERE
+- DESCRIPTION OF WHAT”S INCLUDED HERE
+
+### Assumptions:
+- LIST ALL ASSUMPTIONS HERE (Use AI)
+
+### Process:
+-IF RELEVANT, USE AI TO DESCRIBE PROCESS OF PROJECT
+
+
+### Findings:
+-Single students represented the largest customer segment, while spending tended to decrease with age.
+
+### Recommendations:
+- To optimize marketing efforts, focus on retaining existing customers as they age and explore opportunities to attract older demographics. Additionally, leverage the substantial single-student customer base to drive sales.
+
+### Notes:
+LIST ANY NOTES (such as a draft page being a requirement)
+

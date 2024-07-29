@@ -1,1 +1,5 @@
-Participants will assumed the role of junior analysts tasked with conducting a rigorous analysis of Zomato's customer and restaurant datasets. The project demanded a comprehensive exploration of customer segmentation, a deep dive into restaurant performance metrics, and a holistic assessment of overall business performance. A project plan outlining the analytical approach taken was delivered before the final presentation. An interactive dashboard that effectively visualizes key findings and insights was delivered. Finally, a detailed report summarizing the analysis process, key discoveries, and actionable recommendations is essential.
+Participants assumed the role of junior analysts tasked with conducting a rigorous analysis of Zomato's customer and restaurant datasets. 
+The project demanded a comprehensive exploration of customer segmentation, a deep dive into restaurant performance metrics, and a holistic assessment of overall business performance. 
+A project plan outlining the analytical approach taken was delivered before the final presentation. 
+An interactive dashboard that effectively visualizes key findings and insights was delivered. 
+Finally, a detailed report summarizing the analysis process, key discoveries, and actionable recommendations is essential.

@@ -2,11 +2,11 @@
 I examined data to help Fresh Beats, a music platform, grow. I used provided information to create a report highlighting key findings and suggesting improvements. My role was to interpret the data and explain its impact on the business.
 
 ### Table of Contents
+| File Number | Title | Description |
+| :-----------: | ----------- |----------- |
 | 1 | [Fresh Beats Report](https://docs.google.com/document/d/1VxHCWEi5P9v8BYapo0ybtV2SLx8WC2kwZNBQtADVJ74/edit?usp=sharing) | Report using provided data and charts |
-
 | 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-
-| 4 | [Requirements.txt](https://github.com/justyn-plaskon/Data_projects_TripleTen/blob/main/Sprint%200/Requirements.txt) | Project requirements for this report |
+| 3 | [Requirements.txt](https://github.com/justyn-plaskon/Data_projects_TripleTen/blob/main/Sprint%200/Requirements.txt) | Project requirements for this report |
 
 | Section Title | Description |
 | ----------- |----------- |

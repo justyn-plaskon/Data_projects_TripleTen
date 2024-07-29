@@ -4,14 +4,14 @@ The Shopify App Analysis project involved utilizing Power BI to explore the Shop
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [Part 1 Question 1](https://github.com/justyn-plaskon/Data_projects_TripleTen/blob/main/Shopify%20App%20Analysis/Part1Q1.png) | A KPI card that counts the unique number of apps |
-| 2 | [FINISHED FILE NAME HERE](URL HERE) | DESCRIPTION HERE |
-| 3 | [FINISHED FILE NAME HERE](URL HERE) | DESCRIPTION HERE |
-| 4 | [FINISHED FILE NAME HERE](URL HERE) | DESCRIPTION HERE |
-| 5 | [FINISHED FILE NAME HERE](URL HERE) | DESCRIPTION HERE |
-| 6 | [FINISHED FILE NAME HERE](URL HERE) | DESCRIPTION HERE |
-| 6 | [FINISHED FILE NAME HERE](URL HERE) | DESCRIPTION HERE |
-| 6 | [FINISHED FILE NAME HERE](URL HERE) | DESCRIPTION HERE |
+| 1 | [Part 1 Question 1](https://github.com/justyn-plaskon/Data_projects_TripleTen/blob/main/Shopify%20App%20Analysis/Part1Q1.png) | KPI card that counts the unique number of apps |
+| 2 | [Part 1 Question 2](https://github.com/justyn-plaskon/Data_projects_TripleTen/blob/main/Shopify%20App%20Analysis/PART1Q2.png) |  Line chart with the sum of the review count on the Y-axis, and the lastmod date on the X-Axis |
+| 3 | [Part 1 Question 3](https://github.com/justyn-plaskon/Data_projects_TripleTen/blob/main/Shopify%20App%20Analysis/Part1Q3.png) |  Scatterplot with the reviews_count on the X axis and the average rating on the Y axis |
+| 4 | [Part 2 Question 1](https://github.com/justyn-plaskon/Data_projects_TripleTen/blob/main/Shopify%20App%20Analysis/Part2Q1.png) | A DAX expression calculated a "helpful_reviews" column in the "Reviews" table by multiplying "rating" by "(1+helpful_count)" to weight reviews, and a card visualized the average of this weighted score.|
+| 5 | [Part 2 Question 2](https://github.com/justyn-plaskon/Data_projects_TripleTen/blob/main/Shopify%20App%20Analysis/Part2Q2.png) | Scatterplot comparing the average rating on the y-axis against a calculated "developer_answered" column  |
+| 6 | [Part 3 Question 1](https://github.com/justyn-plaskon/Data_projects_TripleTen/blob/main/Shopify%20App%20Analysis/Part3Q1.png) | A bar chart was created displaying the sum of ratings on the y-axis for each developer on the x-axis.  |
+| 6 | [Part 3 Question 2](https://github.com/justyn-plaskon/Data_projects_TripleTen/blob/main/Shopify%20App%20Analysis/Part3Q2.png) |  Bar chart displaying average "helpful_review" value per developer.  |
+| 6 | [Part 3 Question 3](https://github.com/justyn-plaskon/Data_projects_TripleTen/blob/main/Shopify%20App%20Analysis/Part3Q3.png) |  A filtered bar chart focused on developers with over 500 reviews, comparing them based on "developer_answered" to identify the most responsive. |
 |  | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | | [Requirements.txt](URL HERE) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 

@@ -30,10 +30,10 @@ DESCRIPTION HERE:
 -Includes table of contents, Executive Summary, Conversion Funnel calculated based on purchase activity, cohort analysis using the first purchase date to seperate users into cohorts, retention rates using the cohorts, first purchase table and raw data
 
 ### Assumptions:
-- LIST ALL ASSUMPTIONS HERE (Use AI)
+-ASSUMPTIONS
 
 ### Process:
--IF RELEVANT, USE AI TO DESCRIBE PROCESS OF PROJECT
+-process
 
 
 ### Findings:

@@ -22,13 +22,16 @@ DESCRIPTION HERE:
   
 ### Description:
 - # OF PAGES/SHEETS AND FORMAT HERE
-- DESCRIPTION OF WHAT”S INCLUDED HERE
+- Customer Segmentation Analysis
+- Tableau Workbook including dashboard and story presentation. 
 
 ### Assumptions:
-- LIST ALL ASSUMPTIONS HERE (Use AI)
+-The provided datasets are considered accurate, complete, and consistent for this analysis. 
+-Minor data quality issues are present but deemed inconsequential. 
+-The data is well-structured, with clear column definitions
 
 ### Process:
--IF RELEVANT, USE AI TO DESCRIBE PROCESS OF PROJECT
+-
 
 
 ### Findings:

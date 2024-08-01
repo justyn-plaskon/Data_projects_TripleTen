@@ -6,7 +6,7 @@ This project analyzed spending patterns among Zomato customers to inform marketi
 | :-----------: | ----------- |----------- |
 | 1 | [Zomato Customer Analysis](https://public.tableau.com/app/profile/justyn.plaskon/viz/J_PLASKON_ZomatoCustomerAnalysisFinalProject/ZomatoDash?publish=yes) | This project explored the spending habits of Zomato customers across various demographic segments. By filtering the educational qualifications dashboard to exclude 'uneducated' and 'school' levels, spending trends for higher education groups became more apparent in the spending by month per education graph. |
 | 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 4 | [Requirements.txt](URL HERE) | Required to clean the data appropriately using the dataset provided by TripleTen |
+| 4 | [Requirements.txt](https://github.com/justyn-plaskon/Data_projects_TripleTen/blob/main/Zomato%20Customer%20Analysis/Zomato.requirements.txt) | Required to clean the data appropriately using the dataset provided by TripleTen |
 
 | Section Title | Description |
 | ----------- |----------- |

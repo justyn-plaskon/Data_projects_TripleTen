@@ -16,12 +16,24 @@ This project analyzed spending patterns among Zomato customers to inform marketi
 | Findings | Insights learned from the data analysis. |
 
 ### Data
-DESCRIPTION HERE:
-- `'TABLE NAME HERE'`: DESCRIPTION HERE
-    - `'FIELD NAME'`: DESCRIPTION HERE
-  
+TripleTen provided a file of 5 separate Excel files from the mock company Zomato. Two were used for this project.
+- `'Orders'`: All orders made by all customers at all restaurants between Oct. 4th, 2017, and June 26th, 2020
+    - `'order_date'`: Date order was placed
+    - `'Sales_qty'`: Number of items on per order
+    - `'sales_amount'`: numerical value of order in 1 of 2 currencies
+    - `'currency'`: The currency used
+    - `'user_id'`: unique ID for each user: used to join tables
+    - `'r_id'`: Unique ID for each restaraunt
+- `'Users'`: Demographic data for all customers who placed orders within the specified period.
+    - `'user_id'`: unique ID for each user: used to join tables
+    - `'name'`: first and last name of each user
+    - `'Age'`: Age of each User
+    - `'Gender'`: Gender of Each User
+    - `'Marital_status'`: Marital Staus of each user divided into single, married or prefer not to say
+    - `'Education Level'`: The Education level of each user sorted into: Graduate, Ph.D, Post Graduate, School and Uneducated
+    - `'Occupation'`: The Ocupation of eaach user sorted into: Student, Employee, House wife, and Self Employed
 ### Description:
-- # OF PAGES/SHEETS AND FORMAT HERE
+- # OF PAGES/SHEETS AND FORMAT HETableau Work Book, 1 Dashboard, 1 Story, 2 dashboards to support the story, 12 Charts
 - Customer Segmentation Analysis
 - Tableau Workbook including dashboard and story presentation. 
 
@@ -31,7 +43,7 @@ DESCRIPTION HERE:
 -The data is well-structured, with clear column definitions
 
 ### Process:
--
+-Data was analyzed and initial findings were submitted along with a plan. Once this was approved the data wasd more fully analyzed and visuals were created. Findings were presented with a Dashboard and story presentation
 
 
 ### Findings:
@@ -41,5 +53,5 @@ DESCRIPTION HERE:
 - To optimize marketing efforts, focus on retaining existing customers as they age and explore opportunities to attract older demographics. Additionally, leverage the substantial single-student customer base to drive sales.
 
 ### Notes:
-LIST ANY NOTES (such as a draft page being a requirement)
+Submitting my initial analysis and plan was a project requirement
 

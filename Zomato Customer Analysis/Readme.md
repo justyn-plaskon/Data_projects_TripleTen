@@ -33,9 +33,9 @@ TripleTen provided a file of 5 separate Excel files from the mock company Zomato
     - `'Education Level'`: The Education level of each user sorted into: Graduate, Ph.D, Post Graduate, School and Uneducated
     - `'Occupation'`: The Ocupation of eaach user sorted into: Student, Employee, House wife, and Self Employed
 ### Description:
-- # OF PAGES/SHEETS AND FORMAT HETableau Work Book, 1 Dashboard, 1 Story, 2 dashboards to support the story, 12 Charts
+- Tableau Work Book, 1 Dashboard to present the findings, 1 Story presentation, 2 dashboards to include in the story, 12 Charts
 - Customer Segmentation Analysis
-- Tableau Workbook including dashboard and story presentation. 
+  
 
 ### Assumptions:
 -The provided datasets are considered accurate, complete, and consistent for this analysis. 
